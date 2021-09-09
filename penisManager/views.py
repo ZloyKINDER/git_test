@@ -4,10 +4,4 @@ from django.shortcuts import render
 
 # Comment
 
-# Add comment second
-
-# Add dick
-
-# Add comment second
-
-# Add comment second
+# Add commefewrfewwefnt secotrewtewrterwtrewnd
